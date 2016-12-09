@@ -1,0 +1,5 @@
+lod = Dota LOD 2012 gold v4e, OmG Telia StatS v2, OmG Telia StatS, OmG Telia StatS v3
+td = Legion TD Mega 3.5 (B3), Legion TD Mega 3.5 (B4), Mafa TD Expert v15
+petri = Petri_Balans_6_02
+rpg = Life_v2_7d, ZemliBoga_v43_5l_Crows, Zombie_Rush_4_20_3_1, Lords_Of_Europe_5_4b, ZemliBoga v43.5n [Crows], ZemliBoga v43.5o [Crows], ZemliBoga v43.5p [Crows], Lorderon_wars_12_2_00TEST30, Lorderon_wars, ZemliBoga_v0.7b_[Reload]
+emptyss = emptysertyef
